@@ -29,6 +29,6 @@ Astro · GSAP · Three.js · Vercel · [ver código](https://github.com/josiaspa
 ### Estadísticas
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=josiaspalmares-hub&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiaspalmares-hub&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=josiaspalmares-hub&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones en GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josiaspalmares-hub&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
