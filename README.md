@@ -27,6 +27,9 @@
 Portada con carrusel de frascos, una animación que entra en el frasco con sus ingredientes reales, un buscador que recomienda perfumes y el total en bolívares con la tasa del día.
 Astro · GSAP · Three.js · Vercel · [ver código](https://github.com/josiaspalmares-hub/goldhour-web)
 
+**[Carbon Black](https://carbon-black-parrilla.vercel.app)**: concepto de web para una parrilla. Un carbón en 3D que cae sobre la parrilla y prende llamas reales, menú de 16 platos con fichas, "arma tu plato" con fotos del término y reservas por WhatsApp.
+Three.js · JavaScript · Vercel · [ver código](https://github.com/josiaspalmares-hub/carbon-black)
+
 **[Ultron](https://github.com/josiaspalmares-hub/ultron-asistente)**: asistente personal para Windows con voz, memoria propia y bot de Telegram, construido sobre Gemini.
 Consola con lista blanca de comandos, protección contra SSRF y 470 pruebas automáticas.
 Python · Gemini · Telegram
