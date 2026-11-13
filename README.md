@@ -9,10 +9,11 @@
 
 ### Sobre mí
 
-- 💻 Hago páginas web rápidas y con animaciones cuidadas para negocios reales.
+- 💻 Desarrollo proyectos web para negocios locales: catálogos, landings y tiendas.
 - 🛠️ Trabajo en soporte técnico: hardware, redes y CCTV.
 - 🎓 Estudio Ingeniería de Sistemas.
-- 🌱 Ahora aprendo: bases de datos con Supabase y paneles con login.
+- 🤖 Construí mi propio asistente con IA (Ultron) y bots de Telegram.
+- 🤝 Disponible para proyectos freelance y trabajo remoto.
 
 ### Tecnologías
 
@@ -20,11 +21,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,threejs,python,git,github,vercel,vscode,windows&perline=12" alt="HTML, CSS, JavaScript, TypeScript, Astro, Three.js, Python, Git, GitHub, Vercel, VS Code, Windows" />
 </p>
 
-### Proyecto destacado
+### Proyectos
 
 **[Goldhour](https://goldhourparfums.vercel.app)**: tienda de perfumes en Caracas con pedidos por WhatsApp.
 Portada con carrusel de frascos, una animación que entra en el frasco con sus ingredientes reales, un buscador que recomienda perfumes y el total en bolívares con la tasa del día.
 Astro · GSAP · Three.js · Vercel · [ver código](https://github.com/josiaspalmares-hub/goldhour-web)
+
+**[Ultron](https://github.com/josiaspalmares-hub/ultron-asistente)**: asistente personal para Windows con voz, memoria propia y bot de Telegram, construido sobre Gemini.
+Consola con lista blanca de comandos, protección contra SSRF y 470 pruebas automáticas.
+Python · Gemini · Telegram
+
+**[Bot de pedaleo](https://github.com/josiaspalmares-hub/bot-pedaleo-telegram)**: bot de Telegram que calcula cuánto ganas al pasar bolívares a USDT, con las tasas en vivo del BCV y de Binance P2P.
+Python · Telegram · Render
 
 ### Estadísticas
 
