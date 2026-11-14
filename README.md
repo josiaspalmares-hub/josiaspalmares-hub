@@ -2,7 +2,8 @@
 <p align="center">Soporte IT y desarrollo web · Caracas, Venezuela</p>
 <p align="center">
   <a href="https://wa.me/584223243034"><img src="https://img.shields.io/badge/WhatsApp-0422--324--30--34-25D366?logo=whatsapp&logoColor=white" alt="Escríbeme por WhatsApp: 0422-324-30-34" /></a>
-  <a href="https://goldhourparfums.vercel.app"><img src="https://img.shields.io/badge/Proyecto-Goldhour-c9a55c" alt="Ver el proyecto Goldhour" /></a>
+  <a href="https://goldhourparfums.vercel.app"><img src="https://img.shields.io/badge/Ver-Goldhour-c9a55c" alt="Ver la web de Goldhour" /></a>
+  <a href="https://carbon-black-parrilla.vercel.app"><img src="https://img.shields.io/badge/Ver-Carbon_Black-1f1a14" alt="Ver la web de Carbon Black" /></a>
 </p>
 
 ---
@@ -18,14 +19,14 @@
 ### Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,threejs,python,git,github,vercel,vscode,windows&perline=12" alt="HTML, CSS, JavaScript, TypeScript, Astro, Three.js, Python, Git, GitHub, Vercel, VS Code, Windows" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,threejs,supabase,postgres,python,git,github,vercel,vscode&perline=13" alt="HTML, CSS, JavaScript, TypeScript, Astro, Three.js, Supabase, PostgreSQL, Python, Git, GitHub, Vercel, VS Code" />
 </p>
 
 ### Proyectos
 
 **[Goldhour](https://goldhourparfums.vercel.app)**: tienda de perfumes en Caracas con pedidos por WhatsApp.
-Portada con carrusel de frascos, una animación que entra en el frasco con sus ingredientes reales, un buscador que recomienda perfumes y el total en bolívares con la tasa del día.
-Astro · GSAP · Three.js · Vercel · [ver código](https://github.com/josiaspalmares-hub/goldhour-web)
+Catálogo de más de 300 perfumes con estado (disponible o por encargo), una animación que entra en el frasco con videos reales de sus ingredientes, un recomendador que elige 3 perfumes de todo el catálogo, el total en bolívares con la tasa del día y un panel privado para los socios con estadísticas de la web.
+Astro · GSAP · Supabase · Vercel · [ver código](https://github.com/josiaspalmares-hub/goldhour-web)
 
 **[Carbon Black](https://carbon-black-parrilla.vercel.app)**: concepto de web para una parrilla. Un carbón en 3D que cae sobre la parrilla y prende llamas reales, menú de 16 platos con fichas, "arma tu plato" con fotos del término y reservas por WhatsApp.
 Three.js · JavaScript · Vercel · [ver código](https://github.com/josiaspalmares-hub/carbon-black)
