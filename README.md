@@ -4,6 +4,7 @@
   <a href="https://wa.me/584223243034"><img src="https://img.shields.io/badge/WhatsApp-0422--324--30--34-25D366?logo=whatsapp&logoColor=white" alt="Escríbeme por WhatsApp: 0422-324-30-34" /></a>
   <a href="https://goldhourparfums.vercel.app"><img src="https://img.shields.io/badge/Ver-Goldhour-c9a55c" alt="Ver la web de Goldhour" /></a>
   <a href="https://carbon-black-parrilla.vercel.app"><img src="https://img.shields.io/badge/Ver-Carbon_Black-1f1a14" alt="Ver la web de Carbon Black" /></a>
+  <a href="https://kalle-tienda.vercel.app"><img src="https://img.shields.io/badge/Ver-KALLE-ff5b1f" alt="Ver la web de KALLE" /></a>
 </p>
 
 ---
@@ -30,6 +31,9 @@ Astro · GSAP · Supabase · Vercel · [ver código](https://github.com/josiaspa
 
 **[Carbon Black](https://carbon-black-parrilla.vercel.app)**: concepto de web para una parrilla. Un carbón en 3D que cae sobre la parrilla y prende llamas reales, menú de 16 platos con fichas, "arma tu plato" con fotos del término y reservas por WhatsApp.
 Three.js · JavaScript · Vercel · [ver código](https://github.com/josiaspalmares-hub/carbon-black)
+
+**[KALLE](https://kalle-tienda.vercel.app)**: tienda de muestra de ropa urbana y zapatos (marca ficticia). Una rueda de 10 looks que se arrastra, catálogo de 40 prendas con buscador, probador que combina prendas de distintos modelos, vitrina de zapatos con luz que sigue al cursor, precios en bolívares con la tasa del BCV y comentarios guardados en Supabase con límite de intentos.
+JavaScript · Supabase · Vercel · [ver código](https://github.com/josiaspalmares-hub/kalle-tienda)
 
 **[Ultron](https://github.com/josiaspalmares-hub/ultron-asistente)**: asistente personal para Windows con voz, memoria propia y bot de Telegram, construido sobre Gemini.
 Consola con lista blanca de comandos, protección contra SSRF y 470 pruebas automáticas.
