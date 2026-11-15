@@ -5,6 +5,7 @@
   <a href="https://goldhourparfums.vercel.app"><img src="https://img.shields.io/badge/Ver-Goldhour-c9a55c" alt="Ver la web de Goldhour" /></a>
   <a href="https://carbon-black-parrilla.vercel.app"><img src="https://img.shields.io/badge/Ver-Carbon_Black-1f1a14" alt="Ver la web de Carbon Black" /></a>
   <a href="https://kalle-tienda.vercel.app"><img src="https://img.shields.io/badge/Ver-KALLE-ff5b1f" alt="Ver la web de KALLE" /></a>
+  <a href="https://filo-barberia-caracas.vercel.app"><img src="https://img.shields.io/badge/Ver-FILO-c8733a" alt="Ver la web de FILO" /></a>
 </p>
 
 ---
@@ -34,6 +35,9 @@ Three.js · JavaScript · Vercel · [ver código](https://github.com/josiaspalma
 
 **[KALLE](https://kalle-tienda.vercel.app)**: tienda de muestra de ropa urbana y zapatos (marca ficticia). Una rueda de 10 looks que se arrastra, catálogo de 40 prendas con buscador, probador que combina prendas de distintos modelos, vitrina de zapatos con luz que sigue al cursor, precios en bolívares con la tasa del BCV y comentarios guardados en Supabase con límite de intentos.
 JavaScript · Supabase · Vercel · [ver código](https://github.com/josiaspalmares-hub/kalle-tienda)
+
+**[FILO](https://filo-barberia-caracas.vercel.app)**: web de muestra para una barbería (negocio ficticio). Reserva en 5 pasos (servicio, barbero, día, hora y datos) que solo ofrece horas libres de verdad, confirmación con código, WhatsApp y archivo de calendario, cancelación con código, antes y después que se arrastra y un panel privado para el dueño con enlace por correo, sin contraseña. Las citas se validan en Supabase con límite de intentos.
+JavaScript · Supabase · Vercel · [ver código](https://github.com/josiaspalmares-hub/filo-barberia)
 
 **[Ultron](https://github.com/josiaspalmares-hub/ultron-asistente)**: asistente personal para Windows con voz, memoria propia y bot de Telegram, construido sobre Gemini.
 Consola con lista blanca de comandos, protección contra SSRF y 470 pruebas automáticas.
